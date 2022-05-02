@@ -10,7 +10,7 @@ public class PairWithGivenSum {
 	        int data;
 	        Node left, right;
 	    };
-	 
+  
 	    static Node NewNode(int data)
 	    {
 	        Node temp = new Node();
