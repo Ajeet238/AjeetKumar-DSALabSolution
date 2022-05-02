@@ -1,4 +1,4 @@
-package balancingBracket;
+package balancingBracket; 
 
 import java.util.Scanner;
 import java.util.Stack;
