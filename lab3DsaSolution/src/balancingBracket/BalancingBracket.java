@@ -4,7 +4,7 @@ import java.util.Scanner;
 import java.util.Stack;
 
 public class BalancingBracket {
-
+ 
 	public static void balanceBracket(String str) {
 		Stack<Character> st = new Stack<>();
 		int size = str.length();
